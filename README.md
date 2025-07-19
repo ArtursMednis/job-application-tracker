@@ -23,6 +23,7 @@
 
 ## 📁 Project Structure
 
+```
 job-application-tracker/
 ├─ backend/
 │ ├─ JobTracker/
@@ -32,6 +33,7 @@ job-application-tracker/
 ├─ frontend/
 │ ├─ JobTrackerClient/
 │ │ ├─ (React + Vite frontend)
+```
 
 ---
 
